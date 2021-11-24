@@ -31,9 +31,9 @@ The reason for proving the gap is because I find this discrepancy also occurs in
     
 ## So whats next?
     
-I am surprised at how much thought and information a small light bulb can cause me to gather, and as a person who benefits from art and technology, I expect I can be more open to different knowledge, remove the professional terms and transform it into the generic design, also extract as many of my comments as I can warn myself. This is not a solution to this huge gap, but we must first recognize the problem before we can talk about it. 
+I am surprised at how much thought and information a small light bulb can cause me to gather, and as a person who benefits from art and technology, I expect I can be more open to different knowledge, remove the professional terms and transform it into the generic design, also extract as many of my comments as I can warn myself. This is not a solution to this huge gap, but we must first recognize the problem so we can talk about it. 
     
-But now I need to check to see what's been wrong with my code.
+Yet now I need to check to see what's been wrong with my code.
 
     
     
