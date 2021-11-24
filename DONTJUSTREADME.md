@@ -25,8 +25,10 @@ the speed of development)
 
     
 The reason for proving the gap is because I find this discrepancy also occurs in the development of art and technology. There is a balance between commercialisation and popularisation, but art today is still portrayed as a sophisticated discipline, sometimes even considered inaccessible by the public because of its many esoteric terms, and sometimes it's artificial. Yet art has belonged to the masses. It is not that art must be accessible to everyone, but that it should be more accessible to a more diverse audience, and free to express “ I can’t understand!”without feeling ashamed. This also applies to technology, which should benefit more people than just the most advanced technology in people's dreams, especially as it affects people's lives more directly.
+    
 <img width="421" alt="Leftover" src="https://user-images.githubusercontent.com/94935945/143256470-78bddba7-7c72-4360-83ce-454e3b5fce91.png">
 >"losting in this technical world..."
+    
 ## So whats next?
     
 I am surprised at how much thought and information a small light bulb can cause me to gather, and as a person who benefits from art and technology, I expect I can be more open to different knowledge, remove the professional terms and transform it into the generic design, also extract as many of my comments as I can warn myself. This is not a solution to this huge gap, but we must first recognize the problem before we can talk about it. 
