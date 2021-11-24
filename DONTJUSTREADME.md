@@ -33,7 +33,7 @@ The reason for proving the gap is because I find this discrepancy also occurs in
     
 I am surprised at how much thought and information a small light bulb can cause me to gather, and as a person who benefits from art and technology, I expect I can be more open to different knowledge, remove the professional terms and transform it into the generic design, also extract as many of my comments as I can warn myself. This is not a solution to this huge gap, but we must first recognize the problem before we can talk about it. 
     
-Meantime, I hope that when you reading me, don’t just finish reading--don't worry I won't ask you to change the world, but to stop for 10 seconds and try to keep the problem in your mind.And now I need to check to see what's been wrong with my code.
+But now I need to check to see what's been wrong with my code.
 
     
     
